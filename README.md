@@ -6,6 +6,8 @@ is granted by this repository.
 
 Patent-oriented disclosure draft: [PATENT_DISCLOSURE.md](PATENT_DISCLOSURE.md)
 
+Architecture and project roadmap: [ROADMAP.md](ROADMAP.md)
+
 ## Abstract
 Traditional lossless data compression is strictly bounded by the classical Pigeonhole Principle, which dictates that a closed digital system cannot universally reduce the bit-length of all arbitrary datasets without introducing collision errors. This paper presents a formal proof of a loophole using **State-Coupled Open Systems (SCOS)**. By separating the data-recording mechanism from a closed loop and passing a compressed "seed" through a non-man-made, deterministic environmental state medium, the universal bound is bypassed. The information density deficiency is transferred to the physical entropy states of the external medium, effectively leveraging the physical universe as a distributed deterministic dictionary.
 
