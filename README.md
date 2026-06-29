@@ -74,3 +74,15 @@ $$\frac{d}{dt}(s_m) = 0$$
 If the external medium experiences thermal fluctuations, environmental noise, or unexpected decoherence, the physical state shifts ($s_m \to s_m'$). Because the virtual slot mapping changes, data corruption occurs.
 
 **Conclusion:** SCOS successfully trades a **mathematical impossibility** (the Pigeonhole Limit) for a **physical stabilization challenge** (State Fidelity Management).
+
+---
+
+## Simulation
+
+This repository includes a small Python simulation that models the SCOS concept with a chaotic logistic map.
+
+Run the simulation:
+
+```bash
+python3 simulations/scos_physical_medium.py
+```
