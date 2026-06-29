@@ -10,6 +10,9 @@ This repository documents State-Coupled Open Systems (SCOS) reconstruction
 theory and includes a reference simulation for research review and timestamped
 public disclosure.
 
+This repository is not a patent application, provisional patent application, or
+grant of "patent pending" status.
+
 ## Rights Reserved
 
 All copyrights and patent rights are reserved. No open-source, commercial,
