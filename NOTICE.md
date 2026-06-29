@@ -2,7 +2,7 @@
 
 Public disclosure date: 2026-06-29
 
-Author: Neuro (`gilh5662-dotcom`)
+Author: Gilberto Herrera-Olaguez (`gilh5662-dotcom`)
 
 Repository: `scos-reconstruction-theory`
 

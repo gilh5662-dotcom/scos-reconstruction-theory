@@ -1,6 +1,6 @@
 # Mathematical Proof of Lossless Data Reconstruction via State-Coupled Open Systems (SCOS)
 
-**Rights notice:** Copyright (c) 2026 Neuro (`gilh5662-dotcom`). All rights
+**Rights notice:** Copyright (c) 2026 Gilberto Herrera-Olaguez. All rights
 reserved. See [LICENSE](LICENSE) and [NOTICE.md](NOTICE.md). No patent license
 is granted by this repository.
 
