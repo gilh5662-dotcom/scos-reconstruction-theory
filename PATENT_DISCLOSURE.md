@@ -145,10 +145,9 @@ Possible variations include:
 15. benchmark and verification tools comparing digital seed size, physical
     state size, reconstruction accuracy, and fidelity requirements.
 
-## 11. Potential Claims To Discuss With Counsel
+## 11. Potential Claim Areas
 
-The following are non-legal draft concepts for discussion with a patent
-attorney. They are not filed patent claims.
+The following are technical claim areas and are not filed patent claims.
 
 1. A method of reconstructing digital data using a compact digital seed and a
    deterministic external physical state medium.

@@ -27,5 +27,5 @@ property protection where available.
 Public disclosure can affect patent rights. In the United States, inventor-
 originated disclosures may be subject to a limited grace period, but rules vary
 by jurisdiction and by fact pattern. This repository notice is not legal advice.
-Consult a patent attorney before relying on any grace period or publication
-strategy.
+Formal patent protection, if pursued, requires a separate filing with the
+appropriate patent office.
